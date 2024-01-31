@@ -87,6 +87,4 @@ public class ScriptPopThingy : MonoBehaviour, IPointerDownHandler
     {
         Destroy(gameObject);
     }
-
-
 }

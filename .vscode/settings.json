@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Small project.sln"
+    "dotnet.defaultSolution": "PopBalloons.sln"
 }
